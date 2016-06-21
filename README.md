@@ -1,5 +1,7 @@
 # dynasty-search-engine
-Automatically exported from code.google.com/p/dynasty-search-engine
+
+    Automatically exported from code.google.com/p/dynasty-search-engine
+
 一个小型Java搜索引擎的实现，包含网络爬虫、预处理模块以及查询服务
 
 项目为一个Java搜索引擎的实现(非Lucene)，根据搜索引擎的工作流程将实现分为三个模块，分别是：网络爬虫、预处理模块以及查询服务模块。系统首先使用网络爬虫爬取各个网页的源码并保存到本地，随后调用预处理模块将这些原始网页处理后进行分词并建立倒排索引以方便查询，最后搭建web服务器用JSP提供搜索服务。
