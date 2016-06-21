@@ -1,0 +1,822 @@
+version:1.0
+url:http://ast.nlsde.buaa.edu.cn/
+date:Sat Jun 05 01:57:27 CST 2010
+IP:218.241.236.72
+length:3970
+
+锘�!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="verify-v1" content="b/T/wvY1c4/Nx0HlkRyYShVOuPMG04pM6y+99sSkamc=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="Main Page,AXEC,Chen Rui,Chen Yinli,MEETING,Yu Kai,Sun Xiucui,Wang Cong,Tong Jianlin,Shi Jiaqin,Lin Mengxiang">
+<title>Automated Software Testing Group, NLSDE, BUAA</title>
+<style type="text/css" media="screen, projection"> 
+@import "scripts/main.css"; 
+</style>
+<style type="text/css" media="screen, projection"> 
+@import 'scripts/main.win.css';
+</style>
+<style type="text/css">
+.editsection { display: none; visibility: hidden; }
+</style></head><body>
+<div style="position: relative;">
+<!--[if lt IE 7]><script src="/wiki/skins/clean/ie7/ie7-standard-p.js" type="text/javascript"></script><![endif]-->
+<script type="text/javascript" src="scripts/index.htm"></script><script type="text/javascript" src="scripts/wikibits.js"></script>
+<script type="text/javascript" src="scripts/browser.js"></script>
+<script type="text/javascript" src="scripts/fadomatic.js"></script>
+<script type="text/javascript" src="scripts/functions.js"></script>
+<script type="text/javascript">
+	if (is_win) {
+		document.write("<style type='text/css' media='screen, projection'> @import 'scripts/main.win.css';</style>");
+	}
+</script>
+<table summary="" id="bodyTable" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+<td id="leftDiv" nowrap="nowrap" width="20"></td>
+<td style="width: 850px;" id="middleDiv" valign="top">
+<div id="bodyDiv">
+<div id="topBackground">
+<div id="siteTitle"><a href="./">Automated Software Testing Group, NLSDE, BUAA</a></div>
+</div>
+<div id="bodyContent">
+<!-- start content -->
+<div id="emptyDiv"></div>
+<h2>Research</h2>
+<p>The group focus on program verification with static methods, such as <a href="http://en.wikipedia.org/wiki/Static_analysis" title="http://en.wikipedia.org/wiki/Static_analysis" >static analysis</a>, <a href="http://www.dcs.kcl.ac.uk/staff/mark/sf.html" title="http://www.dcs.kcl.ac.uk/staff/mark/sf.html" >program slicing</a>, <a href="http://en.wikipedia.org/wiki/Symbolic_mathematics"  title="http://en.wikipedia.org/wiki/Symbolic_mathematics" >symbolic execution</a> and so on. 
+<br>
+By now, we have built a static analyzer, called <a href="http://ast.nlsde.buaa.edu.cn/wiki/index.php/AXEC" title="AXEC">AXEC</a>, coming from An eXtensible static chEcker for C. </p>
+<h2>Members</h2>
+<p>Currently, there are five members in our group:</p>
+<ul>
+  <li>Lin Mengxiang, 鏋楁ⅵ棣�/li>
+	<li><a href="~kaiyu">Yu Kai</a>, 铏炲嚡</li>
+	<li>Chen Yinli, 闄堣儰绔�/li>
+	<li>Wang Cong, 鐜嬭仾</li>
+	<li>Yang Gang, 鏉ㄥ垰</li>
+	<li>Dong Yu, 钁ｅ畤</li>
+    <li>Chen Jin, 闄堥噾</li>
+    <li>Zhou Yi, 鍛ㄤ箟</li>
+    <li>Xue Weining, 钖涚淮瀹�/li>
+    <li>Zhang Xiangyu, 绔犲悜鏄�/li>
+    <li>Gao Qin, 楂樺簡<br>
+        </li>
+    </ul>
+<h2>Former</h2>
+<ul>
+	<li><a href="~chenrui" title="Chen Rui">Chen Rui</a>, 闄堢澘</li>
+	<li>Shi Jiaqin, 鐭充匠閽�/li>
+	<li>Tong Jianlin, 绔ュ缓鏋�/li>
+	<li>Sun Xiucui, 瀛欑缈�/li>
+    <li>Zhu Jiaqi, 鏈卞槈楹�/li>
+    <li>Qiao Lei, 涔旈浄</li>
+    <li>Hou Shenzhou, 渚敵娲�/li>
+    <li>Yang Shiyang, 鏉ㄤ粫娲�/li>
+    <li>Zhu Jiang, 鏈辨睙</li>
+    </ul>
+<h2>Working hard</h2>
+<p>We have 2 MEETINGs every week,</p>
+<ul><li>one for group talk &amp; discussion
+</li><li>the other for paper reading
+</li></ul>
+<h2>Links</h2>
+<ul><li><a href="docs/spec.html">AXEC Language Specification</a></li>
+    <li><a href="files/symExecution/Results.doc">璁烘枃銆婂熀浜庢噿鏇挎崲鐨凜绗﹀彿鎵ц銆嬩腑鐨勫疄楠岀粨鏋滀笅杞�/a></li>
+</ul>
+<!-- Saved in parser cache with key wikidb-nlsde:pcache:idhash:1504-0!1!0!!en!2 and timestamp 20080108034318 -->
+</div></td>
+<td id="rightDiv" nowrap="nowrap" width="20"></td>
+</tr>
+</tbody></table>
+</div></body></html>
+
+version:1.0
+url:http://en.wikipedia.org/wiki/Static_analysis
+date:Sat Jun 05 01:57:30 CST 2010
+IP:208.80.152.2
+length:39622
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>Static analysis - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Static_analysis&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Static_analysis&amp;action=edit" />
+<link rel="stylesheet" type="text/css" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?94" />
+<link rel="stylesheet" type="text/css" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?281a" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?281a" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?281a" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Static_analysis",
+wgTitle="Static analysis",
+wgAction="view",
+wgArticleId=575573,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=353136149,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgSiteName="Wikipedia",
+wgCategories=["Articles needing cleanup from May 2007", "All pages needing cleanup", "Misuse of statistics", "Public finance"],
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgDBname="enwiki",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgTrackingToken="48af718145ccf09e0d5fdf4988c7221a",
+wgClickTrackingIsThrottled=true,
+wgNotice="",
+wgNoticeLocal="";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?281a" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?281a"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?281a" type="text/javascript"></script>
+<script type="text/javascript">var wgVectorPreferences = {
+	"collapsiblenav": {
+		"enable": 1
+	},
+	"editwarning": {
+		"enable": 1
+	}
+};
+var wgVectorEnabledModules = {
+	"collapsiblenav": true,
+	"collapsibletabs": true,
+	"editwarning": true,
+	"footercleanup": false,
+	"simplesearch": true
+};</script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/ClickTracking/ClickTracking.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?281a" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script type="text/javascript" src="http://upload.wikimedia.org/centralnotice/wikipedia/en/centralnotice.js?281a"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;281a" type="text/javascript"></script>
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Static_analysis skin-vector">
+		<div id="page-base" class="noprint"></div>
+		<div id="head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><script type='text/javascript'>if (wgNotice != '') document.writeln(wgNotice);</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Static analysis</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<h3 id="siteSub">From Wikipedia, the free encyclopedia</h3>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to:<a href="#head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="metadata plainlinks ambox ambox-style" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style="">This article <b>may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.</b> Please <a href="http://en.wikipedia.org/w/index.php?title=Static_analysis&amp;action=edit" class="external text" rel="nofollow">improve this article</a> if you can. <small><i>(May 2007)</i></small></td>
+</tr>
+</table>
+<div class="dablink">This article is about the statistical technique.  For the programming technique, see <a href="/wiki/Static_code_analysis" title="Static code analysis">static code analysis</a>.</div>
+<p><b>Static analysis</b>, <b>static projection</b>, and <b>static scoring</b> are terms for simplified analysis wherein the effect of an immediate change to a system is calculated without respect to the longer term response of the system to that change. Such analysis typically produces poor correlation to empirical results.</p>
+<p>Its opposite, <a href="/wiki/Dynamic_scoring" title="Dynamic scoring">dynamic analysis</a> or dynamic scoring, is an attempt to take into account how the system is likely to respond to the change. One common use of these terms is budget policy in the United States<sup id="cite_ref-AEA_0-0" class="reference"><a href="#cite_note-AEA-0"><span>[</span>1<span>]</span></a></sup>, although it also occurs in many other statistical disputes.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Economic_Policy"><span class="tocnumber">3.1</span> <span class="toctext">Economic Policy</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Technological_singularity"><span class="tocnumber">3.2</span> <span class="toctext">Technological singularity</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Satire:_safety_razors"><span class="tocnumber">3.3</span> <span class="toctext">Satire: safety razors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+//]]>
+</script>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+<p>The term was used in 1977 in an international academic journal<sup id="cite_ref-PubEcon-Tax_1-0" class="reference"><a href="#cite_note-PubEcon-Tax-1"><span>[</span>2<span>]</span></a></sup>, in a discussion of tax policy. In recent years, it has become very common in academic, business and political discussions of US government economic policy.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a>]</span> <span class="mw-headline" id="Examples">Examples</span></h2>
+<p>A famous example of static analysis comes from <a href="/wiki/Overpopulation" title="Overpopulation">overpopulation</a> theory. Starting with <a href="/wiki/Thomas_Malthus" title="Thomas Malthus" class="mw-redirect">Thomas Malthus</a> at the end of the 18th century, various commentators have projected some short-term population growth trend for years into the future, resulting in the prediction that there would be disastrous overpopulation within a generation or two. Malthus himself essentially claimed that British society would collapse under the weight of overpopulation by 1850, while during the 1960s the book <i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i> made similar dire predictions for the US by the 1980s.</p>
+<p>Similarly, some scientists used a short-term trend of temperature declines during the 1930s to theorize that the world would be in an <a href="/wiki/Ice_age" title="Ice age">ice age</a> by 1978. As with the overpopulation theories, the projection was less accurate than a roll of the dice because it didn't take into account how factors interact, nor how a short-term trend was being treated like a long-term trend.</p>
+<p>For economic policy discussions, predictions that assume no significant change of behavior in response to change in incentives are often termed static projection (and in the US Congressional Budget Office, "static scoring"). By contrast, <i>dynamic scoring</i> refers to projections based on historical response of population to the effect of economic policy changes such as tax increases or cuts.</p>
+<p>Typically, static analysis works for very simple systems: for example, how fast snow is accumulating in what is thought to be the mid-point of a blizzard. But even then it must be tempered with rationality鈥攇uess how much longer the storm might actually last, rather than assuming that snow will fall continually for the next sixty years, and project the average of the storm so far, rather than plotting the curve of its growth as if that will continue to increase for the second half.</p>
+<p>However, when applied to dynamically responsive systems, static analysis tends to produce results that are not only incorrect but opposite in direction to what was predicted, as shown in the following applications.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a>]</span> <span class="mw-headline" id="Applications">Applications</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=4" title="Edit section: Economic Policy">edit</a>]</span> <span class="mw-headline" id="Economic_Policy">Economic Policy</span></h3>
+<p>Presidents from <a href="/wiki/John_F_Kennedy" title="John F Kennedy" class="mw-redirect">John F Kennedy</a><sup id="cite_ref-JFK-paradox_2-0" class="reference"><a href="#cite_note-JFK-paradox-2"><span>[</span>3<span>]</span></a></sup> to <a href="/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a> <sup id="cite_ref-Reagan-Farewell_3-0" class="reference"><a href="#cite_note-Reagan-Farewell-3"><span>[</span>4<span>]</span></a></sup> were explicit in their recognition of the apparent paradox that while static scoring would suggest a change in taxes will produce revenue change commensurate with the tax, in reality revenue tends to change in the <i>opposite</i> direction, due to the response of those affected.</p>
+<p>The empirical evidence for this is available but not widely discussed. Several references, both from economic<sup id="cite_ref-WSJ-outcomes_4-0" class="reference"><a href="#cite_note-WSJ-outcomes-4"><span>[</span>5<span>]</span></a></sup> and political<sup id="cite_ref-JEC-Lessons_5-0" class="reference"><a href="#cite_note-JEC-Lessons-5"><span>[</span>6<span>]</span></a></sup> sources, draw on data demonstrating the difference between static scoring of a tax policy change, and the actual result.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=5" title="Edit section: Technological singularity">edit</a>]</span> <span class="mw-headline" id="Technological_singularity">Technological singularity</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></div>
+<p>Some have criticized the notion of a <a href="/wiki/Technological_singularity" title="Technological singularity">technological singularity</a> as an instance of static analysis: <a href="/wiki/Accelerating_change" title="Accelerating change">accelerating change</a> in some factor of information growth, such as <a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a> or computer intelligence, is projected into the future, resulting in <a href="/wiki/Exponential_growth" title="Exponential growth">exponential growth</a> or <a href="/wiki/Hyperbolic_growth" title="Hyperbolic growth">hyperbolic growth</a> (to a singularity), that suggest that everything will be known by a relatively early date.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=6" title="Edit section: Satire: safety razors">edit</a>]</span> <span class="mw-headline" id="Satire:_safety_razors">Satire: safety razors</span></h3>
+<p>A satire on this idea has been presented using the development of <a href="/wiki/Safety_razor" title="Safety razor">safety razors</a>: After their invention, all safety razors were single-bladed for 70 years. Then the first double-bladed razor was introduced. It only required 15 years for a third blade to be added, and then one year for the fourth and fifth. Fitting these five data points to a hyperbolic curve produced the prediction that within nine years of the calculation鈥攂y the year 2015鈥攕afety razors would have an infinite number of blades.<sup id="cite_ref-Economist-blades_7-0" class="reference"><a href="#cite_note-Economist-blades-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Extrapolation" title="Extrapolation">Extrapolation</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="references-small">
+<ol class="references">
+<li id="cite_note-AEA-0"><b><a href="#cite_ref-AEA_0-0">^</a></b> <span class="citation" id="CITEREFAlen_J._Auerbach2005">Alen J. Auerbach (7 January 2005), <a href="http://www.aeaweb.org/annual_mtg_papers/2005/0107_1430_1304.pdf" class="external text" rel="nofollow"><i>Dynamic Scoring: An Introduction to the Issues</i></a>, American Economic Association<span class="printonly">, <a href="http://www.aeaweb.org/annual_mtg_papers/2005/0107_1430_1304.pdf" class="external free" rel="nofollow">http://www.aeaweb.org/annual_mtg_papers/2005/0107_1430_1304.pdf</a></span><span class="reference-accessdate">, retrieved 2010-03-31</span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dynamic+Scoring%3A+An+Introduction+to+the+Issues&amp;rft.aulast=Alen+J.+Auerbach&amp;rft.au=Alen+J.+Auerbach&amp;rft.date=7+January+2005&amp;rft.pub=American+Economic+Association&amp;rft_id=http%3A%2F%2Fwww.aeaweb.org%2Fannual_mtg_papers%2F2005%2F0107_1430_1304.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-PubEcon-Tax-1"><b><a href="#cite_ref-PubEcon-Tax_1-0">^</a></b> <span class="citation Journal">Masaaki Homma (1977). <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V76-458WP7T-7J&amp;_user=10&amp;_coverDate=08%2F31%2F1977&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1275862156&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=e1d46e0ec6ab8c8e9d1d7e06e6780b12" class="external text" rel="nofollow">"A comparative static analysis of tax incidence"</a>. <i>Journal of Public Economics</i> (Elsevier Science B.V.) <b>8</b> (1): 53-65. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1016%2F0047-2727%2877%2990028-7" class="external text" rel="nofollow">10.1016/0047-2727(77)90028-7</a><span class="printonly">. <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V76-458WP7T-7J&amp;_user=10&amp;_coverDate=08%2F31%2F1977&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1275862156&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=e1d46e0ec6ab8c8e9d1d7e06e6780b12" class="external free" rel="nofollow">http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V76-458WP7T-7J&amp;_user=10&amp;_coverDate=08%2F31%2F1977&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1275862156&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=e1d46e0ec6ab8c8e9d1d7e06e6780b12</a></span><span class="reference-accessdate">. Retrieved 2010-03-31</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+comparative+static+analysis+of+tax+incidence&amp;rft.jtitle=Journal+of+Public+Economics&amp;rft.aulast=Masaaki+Homma&amp;rft.au=Masaaki+Homma&amp;rft.date=1977&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=53-65&amp;rft.pub=Elsevier+Science+B.V.&amp;rft_id=info:doi/10.1016%2F0047-2727%2877%2990028-7&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%3F_ob%3DArticleURL%26_udi%3DB6V76-458WP7T-7J%26_user%3D10%26_coverDate%3D08%252F31%252F1977%26_rdoc%3D1%26_fmt%3Dhigh%26_orig%3Dsearch%26_sort%3Dd%26_docanchor%3D%26view%3Dc%26_searchStrId%3D1275862156%26_rerunOrigin%3Dgoogle%26_acct%3DC000050221%26_version%3D1%26_urlVersion%3D0%26_userid%3D10%26md5%3De1d46e0ec6ab8c8e9d1d7e06e6780b12&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-JFK-paradox-2"><b><a href="#cite_ref-JFK-paradox_2-0">^</a></b> <span class="citation news"><a href="http://www.americanrhetoric.com/speeches/jfkeconomicclubaddress.html" class="external text" rel="nofollow">"Address to the Economic Club of New York"</a>. 14 December 1962<span class="printonly">. <a href="http://www.americanrhetoric.com/speeches/jfkeconomicclubaddress.html" class="external free" rel="nofollow">http://www.americanrhetoric.com/speeches/jfkeconomicclubaddress.html</a></span><span class="reference-accessdate">. Retrieved 2010-03-31</span>. "In short, it is a paradoxical truth that tax rates are too high today and tax revenues are too low and the soundest way to raise the revenues in the long run is to cut the rates now."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Address+to+the+Economic+Club+of+New+York&amp;rft.atitle=&amp;rft.date=14+December+1962&amp;rft_id=http%3A%2F%2Fwww.americanrhetoric.com%2Fspeeches%2Fjfkeconomicclubaddress.html&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Reagan-Farewell-3"><b><a href="#cite_ref-Reagan-Farewell_3-0">^</a></b> <span class="citation news"><a href="http://reagan2020.us/speeches/Farewell.asp" class="external text" rel="nofollow">"President Reagan's Farewell Speech"</a>. 11 January 1989<span class="printonly">. <a href="http://reagan2020.us/speeches/Farewell.asp" class="external free" rel="nofollow">http://reagan2020.us/speeches/Farewell.asp</a></span><span class="reference-accessdate">. Retrieved 2010-03-31</span>. "Common sense told us that when you put a big tax on something, the people will produce less of it. So, we cut the people's tax rates, and the people produced more than ever before."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=President+Reagan%27s+Farewell+Speech&amp;rft.atitle=&amp;rft.date=11+January+1989&amp;rft_id=http%3A%2F%2Freagan2020.us%2Fspeeches%2FFarewell.asp&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-WSJ-outcomes-4"><b><a href="#cite_ref-WSJ-outcomes_4-0">^</a></b> <span class="citation news"><a href="http://taxprof.typepad.com/taxprof_blog/2007/10/wsj-a-capital-g.html" class="external text" rel="nofollow">"A Capital Gains Primer"</a>. <i><a href="/wiki/Wall_Street_Journal" title="Wall Street Journal" class="mw-redirect">Wall Street Journal</a></i>. 15 October 2007<span class="printonly">. <a href="http://taxprof.typepad.com/taxprof_blog/2007/10/wsj-a-capital-g.html" class="external free" rel="nofollow">http://taxprof.typepad.com/taxprof_blog/2007/10/wsj-a-capital-g.html</a></span><span class="reference-accessdate">. Retrieved 2010-03-31</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Capital+Gains+Primer&amp;rft.jtitle=%5B%5BWall+Street+Journal%5D%5D&amp;rft.date=15+October+2007&amp;rft_id=http%3A%2F%2Ftaxprof.typepad.com%2Ftaxprof_blog%2F2007%2F10%2Fwsj-a-capital-g.html&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-JEC-Lessons-5"><b><a href="#cite_ref-JEC-Lessons_5-0">^</a></b> <span class="citation news"><a href="http://www.house.gov/jec/fiscal/tx-grwth/reagtxct/reagtxct.ht" class="external text" rel="nofollow">"The Reagan Tax Cuts: Lessons for Tax Reform"</a>. April 1996<span class="printonly">. <a href="http://www.house.gov/jec/fiscal/tx-grwth/reagtxct/reagtxct.ht" class="external free" rel="nofollow">http://www.house.gov/jec/fiscal/tx-grwth/reagtxct/reagtxct.ht</a></span><span class="reference-accessdate">. Retrieved 2010-03-31</span>. "The criticism that the tax payments of the rich would fall under ERTA was based on a static conception of human behavior. As a 1982 JEC study pointed out,[1] similar across-the-board tax cuts had been implemented in the 1920s as the Mellon tax cuts, and in the 1960s as the Kennedy tax cuts. In both cases the reduction of high marginal tax rates actually increased tax payments by "the rich," also increasing their share of total individual income taxes paid."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Reagan+Tax+Cuts%3A+Lessons+for+Tax+Reform&amp;rft.atitle=&amp;rft.date=April+1996&amp;rft_id=http%3A%2F%2Fwww.house.gov%2Fjec%2Ffiscal%2Ftx-grwth%2Freagtxct%2Freagtxct.ht&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> Note that the issue of budget deficits is completely separate and even more complex, as it depends not only on government revenue-affecting tax policy but also expense-affecting spending policy.</li>
+<li id="cite_note-Economist-blades-7"><b><a href="#cite_ref-Economist-blades_7-0">^</a></b> <span class="citation news"><a href="http://www.economist.com/science/displaystory.cfm?story_id=5624861" class="external text" rel="nofollow">"More blades good"</a>. <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i>: p.&#160;78. 16 March 2006<span class="printonly">. <a href="http://www.economist.com/science/displaystory.cfm?story_id=5624861" class="external free" rel="nofollow">http://www.economist.com/science/displaystory.cfm?story_id=5624861</a></span><span class="reference-accessdate">. Retrieved 2007-10-19</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=More+blades+good&amp;rft.jtitle=%5B%5BThe+Economist%5D%5D&amp;rft.date=16+March+2006&amp;rft.pages=p.%26nbsp%3B78&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fscience%2Fdisplaystory.cfm%3Fstory_id%3D5624861&amp;rfr_id=info:sid/en.wikipedia.org:Static_analysis"><span style="display: none;">&#160;</span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Static_analysis&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<!-- 
+NewPP limit report
+Preprocessor node count: 4148/1000000
+Post-expand include size: 37887/2048000 bytes
+Template argument size: 15022/2048000 bytes
+Expensive parser function count: 1/500
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:575573-0!1!0!default!!en!4 and timestamp 20100602195133 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Static_analysis">http://en.wikipedia.org/wiki/Static_analysis</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Misuse_of_statistics" title="Category:Misuse of statistics">Misuse of statistics</a></span> | <span dir='ltr'><a href="/wiki/Category:Public_finance" title="Category:Public finance">Public finance</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="/wiki/Category:Articles_needing_cleanup_from_May_2007" title="Category:Articles needing cleanup from May 2007">Articles needing cleanup from May 2007</a></span> | <span dir='ltr'><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="head" class="noprint">
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-prefswitch-link-anon"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativePrefSwitch&amp;from=Static_analysis" title="Learn about new features" class="no-text-transform">New features</a></li>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Static_analysis" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+<!-- /0 -->
+			<div id="left-navigation">
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Static_analysis"  title="View the content page [c]" accesskey="c"><span>Article</span></a></li>
+					<li  id="ca-talk"><a href="/wiki/Talk:Static_analysis"  title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+<!-- /0 -->
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Static_analysis" ><span>Read</span></a></li>
+					<li id="ca-edit"><a href="/w/index.php?title=Static_analysis&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Static_analysis&amp;action=history"  title="Past versions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+<!-- /0 -->
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<!-- /1 -->
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Search Wikipedia for this text">&nbsp;</button>
+		</div>
+			</form>
+</div>
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikipedia/commons/d/d6/Wikipedia-logo-v2-en.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content 鈥� the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+				</ul>
+			</div>
+</div>
+<!-- /navigation -->
+<!-- SEARCH -->
+<!-- /SEARCH -->
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+				<ul>
+					<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Support_Wikipedia/en" title="Support us">Donate to Wikipedia</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+				</ul>
+			</div>
+</div>
+<!-- /interaction -->
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Static_analysis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Static_analysis" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Static_analysis&amp;oldid=353136149" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Static_analysis&amp;id=353136149" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<!-- /TOOLBOX -->
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Static+analysis" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Static+analysis&amp;oldid=353136149&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Static_analysis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+<!-- /coll-print_export -->
+<!-- LANGUAGES -->
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 31 March 2010 at 11:38.<br /></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+		<!-- Served by srv279 in 0.040 secs. -->			</body>
+</html>
+
+version:1.0
+url:http://en.wikipedia.org/wiki/Symbolic_mathematics
+date:Sat Jun 05 01:58:04 CST 2010
+IP:208.80.152.2
+length:26085
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>Symbolic computation - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="canonical" href="/wiki/Symbolic_computation" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Symbolic_computation&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Symbolic_computation&amp;action=edit" />
+<link rel="stylesheet" type="text/css" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?94" />
+<link rel="stylesheet" type="text/css" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?281a" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?281a" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?281a" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Symbolic_computation",
+wgTitle="Symbolic computation",
+wgAction="view",
+wgArticleId=23659805,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=349695103,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgSiteName="Wikipedia",
+wgCategories=["Wikipedia articles incorporating text from FOLDOC", "Mathematics stubs", "Computer algebra"],
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgDBname="enwiki",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgTrackingToken="9345ebe8565f6fe66295aa1970ced6b2",
+wgClickTrackingIsThrottled=true,
+wgNotice="",
+wgNoticeLocal="";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?281a" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?281a"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?281a" type="text/javascript"></script>
+<script type="text/javascript">var wgVectorPreferences = {
+	"collapsiblenav": {
+		"enable": 1
+	},
+	"editwarning": {
+		"enable": 1
+	}
+};
+var wgVectorEnabledModules = {
+	"collapsiblenav": true,
+	"collapsibletabs": true,
+	"editwarning": true,
+	"footercleanup": false,
+	"simplesearch": true
+};</script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/ClickTracking/ClickTracking.js?281a" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?281a" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script type="text/javascript" src="http://upload.wikimedia.org/centralnotice/wikipedia/en/centralnotice.js?281a"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;281a" type="text/javascript"></script>
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Symbolic_computation skin-vector">
+		<div id="page-base" class="noprint"></div>
+		<div id="head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><script type='text/javascript'>if (wgNotice != '') document.writeln(wgNotice);</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Symbolic computation</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<h3 id="siteSub">From Wikipedia, the free encyclopedia</h3>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub">聽聽(Redirected from <a href="/w/index.php?title=Symbolic_mathematics&amp;redirect=no" title="Symbolic mathematics">Symbolic mathematics</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to:<a href="#head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<p><b>Symbolic computation</b> or <b>algebraic computation</b>, relates to the use of <a href="/wiki/Machines" title="Machines" class="mw-redirect">machines</a>, such as <a href="/wiki/Computers" title="Computers" class="mw-redirect">computers</a>, to manipulate <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> <a href="/wiki/Equation" title="Equation">equations</a> and expressions in <a href="/wiki/Symbol" title="Symbol">symbolic</a> form, as opposed to manipulating the approximations of specific <a href="/wiki/Numerical_analysis" title="Numerical analysis">numerical</a> quantities represented by those symbols. Such a system might be used for symbolic <a href="/wiki/Symbolic_integration" title="Symbolic integration">integration</a> or <a href="/wiki/Derivative" title="Derivative">differentiation</a>, substitution of one expression into another, simplification of an expression, etc.</p>
+<p>Symbolic computation is also sometimes referred to as <b>symbolic manipulation</b>, <b>symbolic processing</b>, <b>symbolic mathematics</b>, or <b>symbolic algebra</b>, but these terms also refer to non-computational manipulation.</p>
+<p><a href="/wiki/Software" title="Software" class="mw-redirect">Software</a> applications that perform symbolic calculations are called <a href="/wiki/Computer_algebra_system" title="Computer algebra system">computer algebra systems</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Symbolic_computation&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Automated_theorem_prover" title="Automated theorem prover" class="mw-redirect">Automated theorem prover</a></li>
+<li><a href="/wiki/Computer-assisted_proof" title="Computer-assisted proof">Computer-assisted proof</a></li>
+<li><a href="/wiki/Proof_checker" title="Proof checker" class="mw-redirect">Proof checker</a></li>
+<li><a href="/wiki/Model_checker" title="Model checker" class="mw-redirect">Model checker</a></li>
+<li><a href="/wiki/Symbolic-numeric_computation" title="Symbolic-numeric computation">Symbolic-numeric computation</a></li>
+<li><a href="/wiki/Symbolic_simulation" title="Symbolic simulation">Symbolic simulation</a></li>
+<li><a href="/wiki/Symbolic_execution" title="Symbolic execution">Symbolic execution</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Symbolic_computation&amp;action=edit&amp;section=2" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="references-small"></div>
+<ul>
+<li><a href="http://www.csd.uwo.ca/~watt/pub/reprints/2006-tc-sympoly.pdf" class="external text" rel="nofollow">Making Computer Algebra More Symbolic (Invited)</a>, Stephen M. Watt, pp. 43-49, Proc. Transgressive Computing 2006: A conference in honor or Jean Della Dora , (TC 2006), April 24-26 2006, Granada Spain.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Symbolic_computation&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="http://www.cs.mu.oz.au/~schachte/lpanalysis.html" class="external text" rel="nofollow">A Gentle Introduction to Static Analysis and Logic Programming</a> showing an example of application of symbolic computation to perform static program analysis.</li>
+<li><a href="http://www.symbolicnet.org/toc.html" class="external text" rel="nofollow">Information on Symbolic Computing</a> A good site for beginners</li>
+<li><a href="http://integrals.wolfram.com" class="external text" rel="nofollow">Wolfram Integrator</a> 鈥� Free online symbolic integration with <a href="/wiki/Mathematica" title="Mathematica">Mathematica</a></li>
+<li><a href="http://user.mendelu.cz/marik/maw/index.php?lang=en&amp;form=integral" class="external text" rel="nofollow">Mathematical Assistant on Web</a> 鈥� symbolic computations online. Allows to integrate in small steps (with hints for next step (integration by parts, substitution, partial fractions, application of formulas and others), powered by <a href="/wiki/Maxima_(software)" title="Maxima (software)">Maxima</a></li>
+<li><a href="http://wims.unice.fr/wims/wims.cgi?module=tool/analysis/function.en" class="external text" rel="nofollow">Function Calculator</a> from <a href="http://wims.unice.fr" class="external text" rel="nofollow">WIMS</a></li>
+<li><a href="http://www.numberempire.com/integralcalculator.php" class="external text" rel="nofollow">Online integral calculator</a></li>
+</ul>
+<p><span class="boilerplate" id="foldoc"><i>This article was originally based on material from the <a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a>, which is <a href="/wiki/Wikipedia:Foldoc_license" title="Wikipedia:Foldoc license">licensed</a> under the <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GFDL</a>.</i></span></p>
+<table class="metadata plainlinks stub" style="background: transparent;">
+<tr>
+<td><a href="/wiki/File:E-to-the-i-pi.svg" class="image"><img alt="Stub icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/E-to-the-i-pi.svg/34px-E-to-the-i-pi.svg.png" width="34" height="30" /></a></td>
+<td><i>This <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a href="http://en.wikipedia.org/w/index.php?title=Symbolic_computation&amp;action=edit" class="external text" rel="nofollow">expanding it</a>.</i>
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small; position:absolute; right:15px; font-size:smaller; display:none;"><a href="/wiki/Template:Math-stub" title="Template:Math-stub"><span title="View this template" style="">v</span></a>&#160;<span style="font-size:80%;">鈥�/span>&#160;<a href="/wiki/Template_talk:Math-stub" title="Template talk:Math-stub"><span title="Discuss this template" style="">d</span></a>&#160;<span style="font-size:80%;">鈥�/span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Math-stub&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">e</span></a></div>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Preprocessor node count: 206/1000000
+Post-expand include size: 4375/2048000 bytes
+Template argument size: 382/2048000 bytes
+Expensive parser function count: 0/500
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23659805-0!1!0!default!!en!4 and timestamp 20100513072857 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Symbolic_computation">http://en.wikipedia.org/wiki/Symbolic_computation</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Mathematics_stubs" title="Category:Mathematics stubs">Mathematics stubs</a></span> | <span dir='ltr'><a href="/wiki/Category:Computer_algebra" title="Category:Computer algebra">Computer algebra</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_FOLDOC" title="Category:Wikipedia articles incorporating text from FOLDOC">Wikipedia articles incorporating text from FOLDOC</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="head" class="noprint">
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-prefswitch-link-anon"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativePrefSwitch&amp;from=Symbolic_computation" title="Learn about new features" class="no-text-transform">New features</a></li>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Symbolic_computation" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+<!-- /0 -->
+			<div id="left-navigation">
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Symbolic_computation"  title="View the content page [c]" accesskey="c"><span>Article</span></a></li>
+					<li  id="ca-talk"><a href="/wiki/Talk:Symbolic_computation"  title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+<!-- /0 -->
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Symbolic_computation" ><span>Read</span></a></li>
+					<li id="ca-edit"><a href="/w/index.php?title=Symbolic_computation&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Symbolic_computation&amp;action=history"  title="Past versions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+<!-- /0 -->
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<!-- /1 -->
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Search Wikipedia for this text">&nbsp;</button>
+		</div>
+			</form>
+</div>
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikipedia/commons/d/d6/Wikipedia-logo-v2-en.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content 鈥� the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+				</ul>
+			</div>
+</div>
+<!-- /navigation -->
+<!-- SEARCH -->
+<!-- /SEARCH -->
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+				<ul>
+					<li id="n-aboutsite"><a href="/wiki/Help:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Support_Wikipedia/en" title="Support us">Donate to Wikipedia</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+				</ul>
+			</div>
+</div>
+<!-- /interaction -->
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Symbolic_computation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Symbolic_computation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Symbolic_computation&amp;oldid=349695103" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Symbolic_computation&amp;id=349695103" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<!-- /TOOLBOX -->
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Symbolic+computation" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Symbolic+computation&amp;oldid=349695103&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Symbolic_computation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+<!-- /coll-print_export -->
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Symbolische_Mathematik">Deutsch</a></li>
+					<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA_%D9%86%D9%85%D8%A7%D8%AF%DB%8C%D9%86">賮丕乇爻蹖</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Calcul_formel">Fran莽ais</a></li>
+					<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Symbolische_wiskunde">Nederlands</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Obliczenia_symboliczne">Polski</a></li>
+					<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Matem%C3%A1tica_simb%C3%B3lica">Portugu锚s</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F">袪褍褋褋泻懈泄</a></li>
+				</ul>
+	</div>
+</div>
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 13 March 2010 at 22:52.<br /></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+		<!-- Served by srv240 in 0.072 secs. -->			</body>
+</html>
+
